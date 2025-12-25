@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @dumpsterdj
-- 👀 I’m interested in ... Fullstack Devloping
-- 🌱 I’m currently learning ... GoLang
+- 🎓 Electrical Engineering Undergraduate
+- 💡 Interested in Software Development, Data Analysis, and Automation
+- ⚙️ Bridging hardware + software to solve real-world problems
 - 📫 How to reach me ... https://www.linkedin.com/in/dhruvjeet-singh/
